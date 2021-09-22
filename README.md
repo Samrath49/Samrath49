@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi , I'm Samrath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=React Developer;UI/UX Developer;Machine Learning Enthusiast;&center=true&width=500&height=50"></a>
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=React+Developer;UI/UX+Developer;Machine+Learning+Enthusiast;&center=true&width=500&height=50"></a>
 
 </p>
 <h4 align="center">I love building side projects 😍, and most of them are Open source. I'm currently looking to colaborate more on open source projects 👨‍💻</h4>
