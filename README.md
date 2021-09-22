@@ -8,7 +8,7 @@
 <h4 align="center">I love building side projects 😍, and most of them are Open source. I'm currently looking to colaborate more on open source projects 👨‍💻</h4>
 <br>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br />
 
 ## 🛠️ Language & Tools 
@@ -121,7 +121,7 @@
   <a align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=samrath49&theme=holi-theme&fire=DD4B19&hide_border=true" alt="Samrath"  /></a>
 </details>
 <br/>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🙋‍♂️ Let's Connect
 <p align="center">
