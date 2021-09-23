@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi , I'm Samrath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=React+Developer;UI/UX+Developer;Machine+Learning+Enthusiast;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=React+Developer;UI/UX+Developer;Machine+Learning+Enthusiast;&center=true&width=500&height=50"></a>
 
 </p>
 <h4 align="center">I love building side projects 😍, and most of them are Open source. I'm currently looking to colaborate more on open source projects 👨‍💻</h4>
@@ -89,7 +89,7 @@
   </a>
  </p>
  </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 Github Stats (Expand to View) 
 
@@ -98,7 +98,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samrath49&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Samrath's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samrath49&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
  &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samrath49&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/> 
@@ -118,7 +118,7 @@
 <details>
   <summary><b>🔥 GitHub Streak Stats</b></summary>
   <br/>
-  <a align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=samrath49&theme=holi-theme&fire=DD4B19&hide_border=true" alt="Samrath"  /></a>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=samrath49&theme=holi-theme&fire=DD4B19&hide_border=true" alt="Samrath"  /></p>
 </details>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -127,5 +127,4 @@
 <p align="center">
 	<a href="mailto:samrathchauhan49@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/samrath49/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<!-- <a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> -->
 </p>
